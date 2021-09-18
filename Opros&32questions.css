@@ -1,0 +1,50 @@
+.zad7 {
+    color: green;
+    font-family: Tahoma; 
+}
+.zad8 {
+    color: aqua
+}
+.zad8a1 {
+    color: black
+}
+.zad8a2 {
+    color: blue
+}
+.zad8a3 {
+    color: blueviolet
+}
+.zad8a4 {
+    color: brown
+}
+.zad8a5 {
+    color: burlywood
+}
+.zad8a6 {
+    color: cadetblue
+}
+.zad8a7 {
+    color: chartreuse
+}
+.zad8a8 {
+    color: coral
+}
+.zad8a9 {
+    color: darkgoldenrod
+}
+.ramka{
+border: 2px solid #00a8e1
+}
+.head{
+    font-size: 300%
+    
+}
+#form1{
+    width: 150px;
+    height: 180px;
+    background: whitesmoke;
+    border-radius: 6%;
+}
+h1{
+
+}
